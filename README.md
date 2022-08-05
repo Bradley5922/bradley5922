@@ -11,7 +11,7 @@ However, ambitions for big projects with large scope are in the pipeline.
 - 🔭 I’m currently working on: A new social media app
 - 🌱 I’m currently learning: EVERYTHING - studing CS at the University of Birmingham
 - 💬 Ask me about: anything iOS development wise
-- 📫 How to reach me: [Bradley5922@icloud.com](mailto:Bradley5922@icloud.com?subject=GitHub%20README) / [LinkedIn](https://www.linkedin.com/in/bradley-cable-a2b924190/)
+- 📫 How to reach me: [Bradley5922@icloud.com](mailto:Bradley5922@icloud.com?subject=GitHub%20README) / <a href="https://www.linkedin.com/in/bradley-cable-a2b924190/" target="_blank" rel="noreferrer noopener">LinkedIn</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: There are 2 billion lines of code in Google's codebase
 
